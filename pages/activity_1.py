@@ -1,2 +1,2 @@
 import streamlit as st
-st.title ("Gwapa si maui")
+st.title ("Gwapa si mherlie")
