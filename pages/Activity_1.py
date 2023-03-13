@@ -1,4 +1,6 @@
 import matplotlib.pyplot as plt
+plt.xlabel ("X Axis")
+plt.ylabel ("Y Axis")
 
 def DDALine(x1, y1, x2, y2, color):
     fig = plt.figure()
