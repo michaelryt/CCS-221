@@ -9,7 +9,7 @@ def main():
     st.title("Midterm Exam in CCS221")
     
     st.sidebar.header("Line Algorithm Parameters")
-    _act1_x0, _act1_y0, _act1_x1, _act_y1 = st.sidebar.slider('Starting X', 1, 1000), \
+    _act1_x0, _act1_y0, _act1_x1, _act1_y1 = st.sidebar.slider('Starting X', 1, 1000), \
                      st.sidebar.slider('Starting Y', 1, 1000), \
                      st.sidebar.slider('Ending X', 1, 1000, 100), \
                      st.sidebar.slider('Ending Y', 1, 1000, 100)
