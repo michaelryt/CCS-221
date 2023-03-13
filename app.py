@@ -1,6 +1,7 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
+import cv2
 import pages.Activity_1 as act1
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
